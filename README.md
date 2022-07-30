@@ -27,12 +27,12 @@ Users should be able to:
 
 #### Desktop
 
-![](./preview/desktop.jpg)
+![](./preview/desktop)
 
 #### Mobile
 
-![](./preview/mobile1.jpg)
-![](./preview/mobile2.jpg)
+![](../preview/mobile1.jpg)
+![](../preview/mobile2.jpg)
 
 
 ### Links
@@ -62,4 +62,3 @@ Thanks to this challenge I learned more about flexbox. I used it with `min-width
 	...
 }
 ```
-# 3-columns-article
