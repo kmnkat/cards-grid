@@ -31,14 +31,14 @@ Users should be able to:
 
 #### Mobile
 
-![](../preview/mobile1.jpg)
-![](../preview/mobile2.jpg)
+![](./preview/mobile1)
+![](./preview/mobile2)
 
 
 ### Links
 
-- Solution URL: [Github=](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/kmnkat/cards-grid)
+- Live Site URL: [Github pages](https://kmnkat.github.io/cards-grid/)
 
 ## My process
 
